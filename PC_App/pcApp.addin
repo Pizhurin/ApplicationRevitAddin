@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>GitHub_Application</Name>
+		<Assembly>[TARGET]PC_App.dll</Assembly>
+		<ClientId>6470FF13-B135-42CE-A6A6-4DAA4344AFF2</ClientId>
+		<FullClassName>PC_App.Application</FullClassName>
+		<VendorId>PiN</VendorId>
+		<VendorDescription>pizhurin@yahoo.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
